@@ -30,7 +30,9 @@ This website is a custom-built, fully responsive, and interactive digital resume
 - **Frameworks & Libraries**: React.js, Node.js, Pandas, NumPy, Scikit-learn, Streamlit
 
 ## 🌐 Live Preview
-You can view the live portfolio deployed via Vercel (coming soon) or by simply cloning this repository and opening `index.html` in your browser.
+You can view the live portfolio deployed via Vercel here: **[Live Portfolio](https://my-portfolio-x2zh.vercel.app/)**
+
+Alternatively, you can run it locally by cloning this repository and opening `index.html` in your browser.
 
 ## 📫 Let's Connect
 I am always open to internships, collaborations, or just a good conversation about security!
