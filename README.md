@@ -2,7 +2,7 @@
 
 Welcome to the repository for my personal portfolio website! I am **Shreyangshu Das**, a B.Tech student specializing in Computer Science — Cyber Security at SRM University (Class of 2027). This portfolio serves as a centralized hub to showcase my skills, education, and featured projects in the cybersecurity and full-stack development spaces.
 
-![Portfolio Preview](./profile.jpg)
+**🔗 Live Website:** [my-portfolio-x2zh.vercel.app](https://my-portfolio-x2zh.vercel.app/)
 
 ## 🚀 About the Portfolio
 This website is a custom-built, fully responsive, and interactive digital resume. Designed with a clean, dark-mode "hacker" aesthetic, it features custom parallax scrolling, floating particles, and glassmorphism elements to provide a premium user experience.
